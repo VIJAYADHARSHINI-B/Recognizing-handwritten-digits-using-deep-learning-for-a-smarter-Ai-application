@@ -62,4 +62,4 @@ def predict_external_image(image_path):
 
 # Example usage
 # Replace with your image file path
-predict_external_image("digit.png")
+predict_external_image("digit.jpg")
